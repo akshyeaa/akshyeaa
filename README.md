@@ -4,9 +4,8 @@
 </p>
 
 ---
-
-## About Me
 <pre>
+<h2><b>About Me</b></h2>
 I’m Akshay — a Computer Science Engineering student passionate about
 building modern web experiences, exploring GenAI, and creating impactful tech projects.
 
