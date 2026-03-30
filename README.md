@@ -6,11 +6,10 @@
 ---
 
 ## About Me
-<p align="center">
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.7;">
-    I’m Akshay — a Computer Science Engineering student focused on<br/>
-    frontend development, GenAI, and building creative tech projects.<br/><br/>
-    I enjoy combining design, logic, and emerging technologies<br/>
-    to create practical, innovative, and user-focused solutions.
-  </span>
-</p>
+<pre>
+I’m Akshay — a Computer Science Engineering student passionate about
+building modern web experiences, exploring GenAI, and creating impactful tech projects.
+
+I enjoy working on frontend development, AI-driven ideas, and innovative systems
+that combine creativity, functionality, and real-world problem solving.
+</pre>
